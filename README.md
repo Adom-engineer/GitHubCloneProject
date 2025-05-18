@@ -1,1 +1,1 @@
-  G i t H u b   M e r g e   C o n f l i c t   T a s k   Modification in feature-greeting branch.
+"Modification in feature-greeting branch" 
